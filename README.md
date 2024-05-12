@@ -47,7 +47,7 @@ This project is licensed under the [MIT License](https://sites.google.com/view/a
 We would like to thank the contributors and the open-source community for their valuable contributions and support towards this project.
 
 **Contacts:**
-For any inquiries or support, please contact [insert contact email here].
+For any inquiries or support, please contact [ybakhru2002@gmail.com].
 
 ---
 Feel free to customize the sections according to your project's specific details and requirements.
