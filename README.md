@@ -13,6 +13,7 @@ This project is a component of a larger framework aimed at developing a vehicle 
 <img width="350" height="747" alt="Screenshot 2026-01-22 at 8 42 06 AM" src="https://github.com/user-attachments/assets/6a5a5681-0336-42b2-8505-0991c2949690" />
 
 3. **Model Accuracy (Screen 4):** The app displays the current accuracy of the trained machine learning model.
+<img width="247" height="529" alt="Screenshot 2026-01-22 at 8 47 15 AM" src="https://github.com/user-attachments/assets/7578e651-fe62-4632-a1a2-fede81ba7232" />
 
 
 4. **Prediction (Screen 5):** Based on the trained model, the app can make predictions using the inputted data.
