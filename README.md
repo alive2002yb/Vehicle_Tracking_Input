@@ -6,18 +6,18 @@ This project is a component of a larger framework aimed at developing a vehicle 
 **Features:**
 
 1. **Data Visualization (Screen 1):** The app fetches sample data from a Google Sheet and displays the available data fields to the user.
-<img width="342" height="372" alt="Screenshot 2026-01-22 at 8 42 49 AM" src="https://github.com/user-attachments/assets/c6afd8c4-f500-497b-b20c-112afa704d24" />
+<img width="247" height="529" alt="Screenshot 2026-01-22 at 8 42 49 AM" src="https://github.com/user-attachments/assets/c6afd8c4-f500-497b-b20c-112afa704d24" />
 
 
 2. **Data Input (Screen 2):** Users can manually input data with corresponding labels, including sensor values, directly into the Google Sheet.
-<img width="350" height="747" alt="Screenshot 2026-01-22 at 8 42 06 AM" src="https://github.com/user-attachments/assets/6a5a5681-0336-42b2-8505-0991c2949690" />
+<img width="247" height="529" alt="Screenshot 2026-01-22 at 8 42 06 AM" src="https://github.com/user-attachments/assets/6a5a5681-0336-42b2-8505-0991c2949690" />
 
 3. **Model Accuracy (Screen 4):** The app displays the current accuracy of the trained machine learning model.
 <img width="247" height="529" alt="Screenshot 2026-01-22 at 8 47 15 AM" src="https://github.com/user-attachments/assets/7578e651-fe62-4632-a1a2-fede81ba7232" />
 
 
 4. **Prediction (Screen 5):** Based on the trained model, the app can make predictions using the inputted data.
-<img width="349" height="748" alt="Screenshot 2026-01-22 at 8 44 20 AM" src="https://github.com/user-attachments/assets/41c30c58-5ed2-49a4-b2a7-05aa0963c052" />
+<img width="247" height="529" alt="Screenshot 2026-01-22 at 8 44 20 AM" src="https://github.com/user-attachments/assets/41c30c58-5ed2-49a4-b2a7-05aa0963c052" />
 
 
 **Machine Learning Integration:**
